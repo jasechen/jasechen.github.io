@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jasechen</title>
-    <link>https://jasechen.github.io/</link>
-    <description>Recent content on Jasechen</description>
+    <title>Website of Jane Doe</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Website of Jane Doe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jasechen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://jasechen.github.io/about/</link>
+      <link>https://example.com/about/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jasechen.github.io/about/</guid>
+      <guid>https://example.com/about/</guid>
       
         <description>&lt;p&gt;THIS IS MY ABOUT PAGE.&lt;/p&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Hello Hugo</title>
-      <link>https://jasechen.github.io/posts/hello-hugo/</link>
+      <link>https://example.com/posts/hello-hugo/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jasechen.github.io/posts/hello-hugo/</guid>
+      <guid>https://example.com/posts/hello-hugo/</guid>
       
         <description>&lt;p&gt;this is my first post !!&lt;/p&gt;</description>
       
